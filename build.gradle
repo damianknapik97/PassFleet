@@ -1,0 +1,33 @@
+plugins {
+    id 'java'
+}
+
+group 'Library'
+version '1.0.0'
+
+apply plugin: 'java'
+
+
+sourceCompatibility = 1.8
+
+
+apply plugin: 'application'
+mainClassName = 'main.Main'
+
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+    // https://mvnrepository.com/artifact/commons-codec/commons-codec
+    compile group: 'commons-codec', name: 'commons-codec', version: '1.11'
+    // https://mvnrepository.com/artifact/org.jetbrains/annotations
+    compile group: 'org.jetbrains', name: 'annotations', version: '16.0.3'
+    //https://bitbucket.org/xerial/sqlite-jdbc/overview
+    compile group: 'org.xerial', name: 'sqlite-jdbc', version: '3.23.1'
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+

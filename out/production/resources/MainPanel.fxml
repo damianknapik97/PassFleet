@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="anchorPane" maxHeight="1200.0" maxWidth="1600.0" minHeight="600.0" minWidth="800.0" prefHeight="680.0" prefWidth="981.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="mainPanel.MainPanelController">
+   <children>
+      <TableView fx:id="tableView" fixedCellSize="-2.0" layoutX="5.0" layoutY="373.0" prefHeight="381.0" prefWidth="1014.0" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="5.0" AnchorPane.rightAnchor="5.0" AnchorPane.topAnchor="373.0">
+        <columns>
+          <TableColumn fx:id="nameColumn" prefWidth="75.0" text="Name" />
+          <TableColumn fx:id="websiteAdressColumn" prefWidth="75.0" text="Website Adress" />
+            <TableColumn fx:id="emailColumn" prefWidth="75.0" text="E-mail" />
+            <TableColumn fx:id="loginColumn" prefWidth="75.0" text="Login" />
+            <TableColumn fx:id="passwordColumn" prefWidth="75.0" text="Password" />
+            <TableColumn fx:id="descriptionColumn" prefWidth="75.0" text="Description" />
+        </columns>
+         <columnResizePolicy>
+            <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+         </columnResizePolicy>
+      </TableView>
+      <TextField fx:id="nameField" layoutX="155.0" layoutY="14.0" prefHeight="40.0" prefWidth="280.0" AnchorPane.leftAnchor="155.0" AnchorPane.topAnchor="14.0" />
+      <Text layoutX="14.0" layoutY="99.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Website adress" textAlignment="CENTER" wrappingWidth="130.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="880.0" AnchorPane.topAnchor="81.0">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </Text>
+      <Text layoutX="14.0" layoutY="40.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Name" textAlignment="CENTER" wrappingWidth="130.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="880.0" AnchorPane.topAnchor="21.0">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </Text>
+      <TextField fx:id="websiteAdressField" layoutX="155.0" layoutY="73.0" prefHeight="40.0" prefWidth="280.0" AnchorPane.leftAnchor="155.0" AnchorPane.topAnchor="74.0" />
+      <TextField fx:id="loginField" layoutX="593.0" layoutY="14.0" prefHeight="40.0" prefWidth="215.0" AnchorPane.leftAnchor="629.0" AnchorPane.topAnchor="14.0" />
+      <Text layoutX="482.0" layoutY="39.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Login" textAlignment="CENTER" wrappingWidth="130.0" AnchorPane.leftAnchor="482.0" AnchorPane.rightAnchor="412.0" AnchorPane.topAnchor="20.6552734375">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </Text>
+      <Text layoutX="487.0" layoutY="99.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Password" textAlignment="CENTER" wrappingWidth="130.0" AnchorPane.leftAnchor="487.0" AnchorPane.rightAnchor="407.0" AnchorPane.topAnchor="80.6552734375">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </Text>
+      <TextField fx:id="passwordField" layoutX="593.0" layoutY="73.0" prefHeight="40.0" prefWidth="215.0" AnchorPane.leftAnchor="629.0" AnchorPane.topAnchor="74.0" />
+      <Text layoutX="14.0" layoutY="142.0" strokeType="OUTSIDE" strokeWidth="0.0" text="E-mail" textAlignment="CENTER" wrappingWidth="130.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="880.0" AnchorPane.topAnchor="141.0">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </Text>
+      <TextField fx:id="eMailField" layoutX="593.0" layoutY="132.0" prefHeight="40.0" prefWidth="280.0" AnchorPane.leftAnchor="155.0" AnchorPane.topAnchor="134.0" />
+      <Text layoutX="14.0" layoutY="212.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Description:" textAlignment="CENTER" wrappingWidth="130.0" AnchorPane.leftAnchor="14.0" AnchorPane.topAnchor="201.0">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </Text>
+      <TextField fx:id="descriptionField" layoutX="603.0" layoutY="142.0" prefHeight="40.0" prefWidth="858.0" AnchorPane.leftAnchor="155.0" AnchorPane.rightAnchor="11.0" AnchorPane.topAnchor="201.0" />
+      <Button fx:id="randomButton" layoutX="869.0" layoutY="77.0" mnemonicParsing="false" onAction="#generatePassword" prefHeight="35.0" prefWidth="100.0" style="-fx-background-radius: 10px;" text="Random" AnchorPane.leftAnchor="869.0" AnchorPane.topAnchor="77.0">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button fx:id="saveButton" layoutX="19.0" layoutY="295.0" mnemonicParsing="false" onAction="#saveChanges" prefHeight="40.0" prefWidth="120.0" style="-fx-background-radius: 10px;" text="Save" textAlignment="CENTER" AnchorPane.leftAnchor="19.0" AnchorPane.topAnchor="295.0">
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <Button fx:id="newButton" layoutX="155.0" layoutY="295.0" mnemonicParsing="false" onAction="#addNewRow" prefHeight="40.0" prefWidth="120.0" style="-fx-background-radius: 10px;" text="New" textAlignment="CENTER" AnchorPane.leftAnchor="155.0" AnchorPane.topAnchor="295.0">
+         <font>
+            <Font size="18.0" />
+         </font>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </Button>
+      <Button fx:id="deleteButton" layoutX="347.0" layoutY="295.0" mnemonicParsing="false" onAction="#deleteRow" prefHeight="40.0" prefWidth="120.0" style="-fx-background-radius: 10px;" text="Delete" textAlignment="CENTER" AnchorPane.leftAnchor="291.0" AnchorPane.topAnchor="295.0">
+         <font>
+            <Font size="18.0" />
+         </font>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </Button>
+      <Button fx:id="settingsButton" layoutX="517.0" layoutY="295.0" mnemonicParsing="false" onAction="#openSettings" prefHeight="40.0" prefWidth="120.0" style="-fx-background-radius: 10px;" text="Settings" textAlignment="CENTER" AnchorPane.leftAnchor="427.0" AnchorPane.topAnchor="295.0">
+         <font>
+            <Font size="18.0" />
+         </font>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </Button>
+      <Button fx:id="searchButton" layoutX="641.0" layoutY="295.0" mnemonicParsing="false" onAction="#search" prefHeight="40.0" prefWidth="120.0" style="-fx-background-radius: 10px;" text="Search" textAlignment="CENTER" AnchorPane.leftAnchor="563.0">
+         <font>
+            <Font size="18.0" />
+         </font>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </Button>
+      <TextField fx:id="searchField" alignment="CENTER" layoutX="730.0" layoutY="295.0" prefHeight="40.0" prefWidth="314.0" promptText="Enter query here" AnchorPane.leftAnchor="699.0" AnchorPane.rightAnchor="11.0" AnchorPane.topAnchor="295.0" />
+      <Text layoutX="487.0" layoutY="160.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Creation date" textAlignment="CENTER" wrappingWidth="130.0">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </Text>
+      <Text fx:id="creationDateText" layoutX="629.0" layoutY="158.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER" wrappingWidth="215.0">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>
