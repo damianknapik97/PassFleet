@@ -93,6 +93,7 @@ public class SettingsPanelModel {
         update = "ask_for_password_status = ";
         update = update.concat(String.valueOf( requestPasswordCheckBox.isSelected()));
         Database.getInstance().update("Config",update  ,"id = '1'");
+        Database.getInstance().commit();
         //above statement suggest that user wants to protect himself, so nowe we have to encrypt data in database
 
         update = "generator_include_upper_case = ";

@@ -2,8 +2,7 @@ package database;
 
 import javafx.beans.property.StringProperty;
 
-//TODO komponent zastosowany
-//I think that this abstract class is rather unnecessary here, but implementation was made
+//This abstract class i absolutely unnecessary here, but implementation was made
 //to pass requirements for my student project
 public abstract class DataSchema {
 

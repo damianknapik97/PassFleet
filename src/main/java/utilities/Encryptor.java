@@ -68,9 +68,6 @@ public class Encryptor {
     public boolean checkIfPasswordIsCorrect(String password){
         key = new byte[16];
         String decryptedMessage = "null";
-        if (password.isEmpty()){
-            return true;
-        }
         try{
             if(password.length() > 16){
                 throw new RuntimeException("Password is too long for the key, max length is 16");

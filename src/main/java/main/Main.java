@@ -32,7 +32,6 @@ public class Main extends Application {
             //to do this, we will be creating temporary file that will be deleted afterwads
             String path = System.getProperty("user.dir");
             path = path.concat("/temporary.txt");
-            System.out.println(path);
             file = new File(path);
             if(!file.isFile()){
                 file.createNewFile();

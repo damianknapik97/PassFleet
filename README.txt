@@ -1,3 +1,5 @@
+To run application go to PassFleetBuild folder->PassFleet-1.0.0->bin->PassFleet.bat
+
 Main.Main feature of this application is to comfortably and savely store passwords, logins, etc. for various websites or used accounts.
 It is recommended for user to secure all the stored data by setting password of their own desire and checking the check box
 stating that application should ask for password when started. Only then all the data will be encrypted with the password acting as a key,
@@ -17,3 +19,11 @@ DELETE = delete row
 CTRL + ARROW UP = highlight the one row up in table
 CTRL + ARROW DOWN = highlight the one down row in table
 CTRL + C = exit
+
+Used technologies:
+
+Java
+Javafx
+SQLite
+Gradle
+

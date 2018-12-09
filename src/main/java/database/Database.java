@@ -1,6 +1,8 @@
 package database;
 
 import org.jetbrains.annotations.NotNull;
+
+import java.io.File;
 import java.sql.*;
 
 //Using sqlite database to allow application usage without internet connection
@@ -11,14 +13,21 @@ public class Database {
     private static Database instance = null;
     private Connection connection = null;
 
-
     // initializing database connection
     private Database(){
         try{
-
-            String path = System.getProperty("user.dir");
-            String url = "jdbc:sqlite:" +path+"\\src\\main\\resources\\database.db";
-            connection = DriverManager.getConnection(url);
+            //Checking if database file exists, if not, initializing new database with
+            //tables, constraints, etc.
+            String url = "jdbc:sqlite:database.db";
+            File tmpDir = new File(url);
+            System.out.println(tmpDir.getPath());
+            if(!tmpDir.exists()){
+                connection = DriverManager.getConnection(url);
+                connection.setAutoCommit(false);
+                initializeDatabase();
+            } else{
+                connection = DriverManager.getConnection(url);
+            }
             //Setting auto commit to false, trying to protect user from accidently deleting data
             connection.setAutoCommit(false);
             System.out.println("Connection to database estabilished successfully");
@@ -26,6 +35,43 @@ public class Database {
             System.out.println("Connection to database failed");
             System.out.println(e.getMessage());
         }
+    }
+
+    private void initializeDatabase(){
+        try{
+            //Creating config table with all its columns and constraints, also initializing default values
+            //Adding Check(id = 1) constraint because we need only one row in config
+            StringBuilder sqlStatement = new StringBuilder();
+            sqlStatement.append("CREATE TABLE Config (");
+            sqlStatement.append("ID  INTEGER     PRIMARY KEY AUTOINCREMENT   NOT NULL    CHECK(ID = 1) ,");
+            sqlStatement.append("password_sample     TEXT    DEFAULT decodeSample ,");
+            sqlStatement.append("password_postfix    VARCHAR ,");
+            sqlStatement.append("ask_for_password_status BOOLEAN NOT NULL DEFAULT (false) ,");
+            sqlStatement.append("generator_number_of_char   INTEGER     NOT NULL    DEFAULT 8 ,");
+            sqlStatement.append("generator_include_upper_case   BOOLEAN     NOT NULL    DEFAULT (true) ,");
+            sqlStatement.append("generator_include_special_char     BOOLEAN     NOT NULL    DEFAULT (true) ,");
+            sqlStatement.append("language   VARCHAR     NOT NULL     DEFAULT English  );");
+            connection.prepareStatement(sqlStatement.toString()).execute();
+
+            sqlStatement = new StringBuilder();
+            sqlStatement.append("CREATE TABLE Passwords (");
+            sqlStatement.append("ID     INTEGER     PRIMARY KEY AUTOINCREMENT   NOT NULL,");
+            sqlStatement.append("name   TEXT,");
+            sqlStatement.append("website_adress     TEXT,");
+            sqlStatement.append("email  TEXT,");
+            sqlStatement.append("login  TEXT,");
+            sqlStatement.append("password   TEXT,");
+            sqlStatement.append("description    TEXT,");
+            sqlStatement.append("creation_date  DATE    DEFAULT (datetime('now','localtime')) );");
+            connection.prepareStatement(sqlStatement.toString()).execute();
+
+            this.insert("ID","Config","'1'");
+            this.commit();
+
+        } catch(SQLException e){
+            System.out.println(e.getMessage());
+        }
+
     }
 
     public static Database getInstance(){

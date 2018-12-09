@@ -84,10 +84,6 @@ public class PasswordGenerator {
     //Inserting random char from alphabet to random spot in password
     public char[] repairPassword(char[] password, String alphabet){
         password[secureRandom.nextInt(password.length)] = alphabet.charAt(secureRandom.nextInt(alphabet.length()));
-        System.out.println(password.length);
-        System.out.println(String.valueOf(password));
-        System.out.println(alphabet.length());
-        System.out.println(alphabet);
         return password;
     }
 
