@@ -1,11 +1,12 @@
 To run application go to PassFleetBuild folder->PassFleet-1.0.0->bin->PassFleet.bat
 
-Main.Main feature of this application is to comfortably and savely store passwords, logins, etc. for various websites or used accounts.
+Main feature of this application is to comfortably and savely store passwords, logins, etc. for various websites or used accounts.
 It is recommended for user to secure all the stored data by setting password of their own desire and checking the check box
 stating that application should ask for password when started. Only then all the data will be encrypted with the password acting as a key,
 or at least part of it. Because of possible database conflicts, application allows only to open one instance of itself by creating, and checking
-the existence of temporary file temporary.txt. 
+the existence of temporary file "temporary.txt". 
 
+It is worth noting that user can make backup by simply copying the database.db file to another directory.
 
 Shortcuts:
 
@@ -21,7 +22,6 @@ CTRL + ARROW DOWN = highlight the one down row in table
 CTRL + C = exit
 
 Used technologies:
-
 Java
 Javafx
 SQLite
