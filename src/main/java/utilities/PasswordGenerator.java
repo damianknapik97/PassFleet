@@ -41,7 +41,7 @@ public class PasswordGenerator {
     //Now we need to run verification to make sure that we draw character from every of the alphabets
     //If we find one char, we break the loop and return password
     //Recursion might not be the fastest solution but I got too invested to not implement it
-    private String passwordChecker(char[] password, boolean useUpperCase, boolean useSpecialCharacters) {
+    public String passwordChecker(char[] password, boolean useUpperCase, boolean useSpecialCharacters) {
         String verifiedPassword;
 
         //Checking password if every desired alphabet is included
@@ -67,7 +67,7 @@ public class PasswordGenerator {
 
     // Checking if alphabet is included
     // Upon finding that alphabet is included, returning true
-    public boolean checkIfPasswordIsValid(char[] password, String alphabet){
+    private boolean checkIfPasswordIsValid(char[] password, String alphabet){
         char[] tmpCharsTable;
         //Checking if there is at least one char from basicAlphabet
         tmpCharsTable = alphabet.toCharArray();
@@ -82,7 +82,7 @@ public class PasswordGenerator {
     }
 
     //Inserting random char from alphabet to random spot in password
-    public char[] repairPassword(char[] password, String alphabet){
+    private char[] repairPassword(char[] password, String alphabet){
         password[secureRandom.nextInt(password.length)] = alphabet.charAt(secureRandom.nextInt(alphabet.length()));
         return password;
     }

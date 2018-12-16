@@ -147,8 +147,6 @@ public class Encryptor {
 
         //Making sure that initialization vector is not corrupted
 
-        System.out.println(ivLength);
-
         if(ivLength < 12 || ivLength >= 16)
             throw new IllegalArgumentException("invalid initialization vector key");
 

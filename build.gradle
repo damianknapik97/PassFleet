@@ -25,6 +25,8 @@ dependencies {
     compile group: 'org.jetbrains', name: 'annotations', version: '16.0.3'
     //https://bitbucket.org/xerial/sqlite-jdbc/overview
     compile group: 'org.xerial', name: 'sqlite-jdbc', version: '3.23.1'
+    //https://github.com/cbismuth/junit-repeat-rule
+    compile group: 'com.github.cbismuth', name: 'junit-repeat-rule', version: '1.1.2'
     testCompile group: 'junit', name: 'junit', version: '4.12'
 }
 

@@ -4,70 +4,25 @@
     <list default="true" id="0a3a5fb6-67b1-4b63-93d5-18a65ffb627c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AfterEncryption.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BeforeEncryption.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatabaseStructure1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatabaseStructure2.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/database/Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/database/DataManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/database/DataSchema.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/database/Database.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/loginScreen/LoginScreenController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/loginScreen/LoginScreenModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/main/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/mainPanel/MainPanelController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/mainPanel/MainPanelModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/settings/SettingsPanelController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/settings/SettingsPanelModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/utilities/Encryptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/utilities/LimitedPasswordField.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/utilities/PasswordGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/distributions/PassFleet-1.0.0.tar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/distributions/PassFleet-1.0.0.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/PassFleet-1.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/LoginScreen.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/MainPanel.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/SettingsPanel.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/database.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/scripts/PassFleet" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/scripts/PassFleet.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/database/Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/database/DataManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/database/DataSchema.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/database/Database.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/loginScreen/LoginScreenController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/loginScreen/LoginScreenModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/main/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/mainPanel/MainPanelController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/mainPanel/MainPanelModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/settings/SettingsPanelController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/settings/SettingsPanelModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/utilities/Encryptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/utilities/LimitedPasswordField.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/utilities/PasswordGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/LoginScreen.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/MainPanel.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/SettingsPanel.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/database.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/database/DataSchema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/database/DataSchema.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/database/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/database/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/settings/SettingsPanelModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/settings/SettingsPanelModel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/utilities/Encryptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/Encryptor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/utilities/PasswordGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/PasswordGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/database.db" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/database.db" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -87,25 +42,28 @@
     <session id="-1363227245">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Groovy" value="3" />
-          <entry key="JAVA" value="54" />
+          <entry key="Groovy" value="4" />
+          <entry key="JAVA" value="82" />
           <entry key="Kotlin" value="1" />
           <entry key="XML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Groovy" value="990" />
-          <entry key="JAVA" value="2874" />
+          <entry key="Groovy" value="1078" />
+          <entry key="JAVA" value="5581" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="7" />
         </counts>
       </usages-collector>
@@ -114,98 +72,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+        <entry file="file://$PROJECT_DIR$/src/main/java/utilities/LimitedPasswordField.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/database/DataSchema.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/database/DataManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/database/Database.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/mainPanel/MainPanelController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="100" selection-start-line="100" selection-end-line="100" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3047#3048#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/settings/SettingsPanelModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="95" column="40" selection-start-line="95" selection-start-column="40" selection-end-line="95" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/main/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/database/Database.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="80" column="23" lean-forward="true" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/loginScreen/LoginScreenModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+            <state relative-caret-position="17">
+              <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/utilities/PasswordGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -215,14 +97,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Kotlin Script" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>System.</find>
+      <find>syst</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -231,12 +115,12 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="C:\Users\Damian\.gradle\wrapper\dists\gradle-4.10-bin\bg6py687nqv2mbe6e1hdtk57h\gradle-4.10" />
+        <entry key="$PROJECT_DIR$" value="C:\Users\Damian\.gradle\wrapper\dists\gradle-4.10.3-bin\31t79e2qsceia4mkbojplrgx\gradle-4.10.3" />
       </map>
     </option>
     <option name="myGradleVersions">
       <map>
-        <entry key="$PROJECT_DIR$" value="4.10" />
+        <entry key="$PROJECT_DIR$" value="4.10.3" />
       </map>
     </option>
     <option name="availableProjects">
@@ -436,10 +320,10 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6176968795779" />
+        <entry key="$PROJECT_DIR$" value="6178487549897" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="1230973298" />
-        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="261915471" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="2444835419" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2641258053" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="2267000876" />
       </map>
     </option>
@@ -462,84 +346,84 @@
               <option name="name" value="PassFleet" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/ant-1.9.11.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/ant-launcher-1.9.11.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-api-metadata-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-base-services-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-base-services-groovy-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-build-cache-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-build-option-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-cli-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-core-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-core-api-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-docs-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-installation-beacon-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-jvm-services-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-kotlin-dsl-1.0-rc-3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-kotlin-dsl-provider-plugins-1.0-rc-3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-kotlin-dsl-tooling-builders-1.0-rc-3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-kotlin-dsl-tooling-models-1.0-rc-3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-launcher-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-logging-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-messaging-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-model-core-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-model-groovy-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-native-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-persistent-cache-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-process-services-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-resources-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-runtime-api-info-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-tooling-api-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/gradle-wrapper-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/groovy-all-2.4.15.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-announce-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-antlr-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-build-cache-http-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-build-comparison-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-build-init-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-code-quality-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-composite-builds-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-dependency-management-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-diagnostics-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-ear-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-ide-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-ide-native-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-ide-play-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-ivy-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-jacoco-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-javascript-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-language-groovy-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-language-java-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-language-jvm-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-language-native-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-language-scala-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-maven-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-osgi-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-platform-base-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-platform-jvm-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-platform-native-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-platform-play-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-plugin-development-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-plugin-use-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-plugins-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-publish-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-reporting-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-resources-gcs-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-resources-http-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-resources-s3-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-resources-sftp-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-scala-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-signing-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-test-kit-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-testing-base-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-testing-junit-platform-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-testing-jvm-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-testing-native-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-tooling-api-builders-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-tooling-native-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-version-control-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/gradle-workers-4.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-bin/bg6py687nqv2mbe6e1hdtk57h/gradle-4.10/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/ant-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/ant-launcher-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-api-metadata-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-base-services-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-base-services-groovy-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-build-cache-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-build-option-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-cli-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-core-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-core-api-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-docs-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-installation-beacon-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-jvm-services-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-kotlin-dsl-1.0-rc-6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-kotlin-dsl-provider-plugins-1.0-rc-6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-kotlin-dsl-tooling-builders-1.0-rc-6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-kotlin-dsl-tooling-models-1.0-rc-6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-launcher-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-logging-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-messaging-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-model-core-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-model-groovy-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-native-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-persistent-cache-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-process-services-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-resources-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-runtime-api-info-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-tooling-api-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/gradle-wrapper-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/groovy-all-2.4.15.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-announce-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-antlr-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-build-cache-http-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-build-comparison-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-build-init-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-code-quality-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-composite-builds-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-dependency-management-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-diagnostics-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-ear-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-ide-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-ide-native-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-ide-play-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-ivy-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-jacoco-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-javascript-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-language-groovy-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-language-java-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-language-jvm-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-language-native-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-language-scala-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-maven-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-osgi-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-platform-base-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-platform-jvm-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-platform-native-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-platform-play-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-plugin-development-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-plugin-use-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-plugins-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-publish-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-reporting-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-resources-gcs-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-resources-http-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-resources-s3-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-resources-sftp-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-scala-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-signing-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-test-kit-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-testing-base-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-testing-junit-platform-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-testing-jvm-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-testing-native-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-tooling-api-builders-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-tooling-native-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-version-control-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/gradle-workers-4.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3-bin/31t79e2qsceia4mkbojplrgx/gradle-4.10.3/lib/plugins/ivy-2.2.0.jar" />
                 </list>
               </option>
             </ExternalProjectBuildClasspathPojo>
@@ -571,13 +455,20 @@
         <option value="$PROJECT_DIR$/src/main/java/Main/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/mainPanel/MainPanelModel.java" />
         <option value="$PROJECT_DIR$/src/main/java/loginScreen/LoginScreenModel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/utilities/Encryptor.java" />
         <option value="$PROJECT_DIR$/src/main/java/settings/SettingsPanelModel.java" />
         <option value="$PROJECT_DIR$/src/main/java/database/Database.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/database/DataSchema.java" />
-        <option value="$PROJECT_DIR$/src/main/java/utilities/PasswordGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utilities/PasswordGenerator.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/utilities/Encryptor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utilities/EncryptorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utilities/PasswordGeneratorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/JavaFxThreadingRule.java" />
+        <option value="$PROJECT_DIR$/src/test/java/JavaFXThreadingRule.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testingResources/JavaFXThreadingRule.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testingResources/JfxTestRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utilities/LimitedPasswordFieldTest.java" />
       </list>
     </option>
   </component>
@@ -670,7 +561,32 @@
             </path>
             <path>
               <item name="PassFleet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="PassFleetGradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="PassFleet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PassFleetGradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PassFleet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PassFleetGradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testingResources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PassFleet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PassFleetGradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utilities" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -679,12 +595,18 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544317586774" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Damian/Desktop/Programming/PassFleetGradle/src/test/java/utilities/LimitedPasswordFieldTest.java" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544989796668" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15429688" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="utilities" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Damian\Desktop\Programming\PassFleetGradle\src\main\resources" />
       <recent name="C:\Users\Damian\Desktop\Programming\PassFleetGradle\src\main\resources\icon" />
@@ -694,6 +616,9 @@
       <recent name="main" />
       <recent name="" />
       <recent name="Main" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Damian\Desktop\Programming\PassFleetGradle\src\main\resources\mainPanelFXML" />
@@ -713,7 +638,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.All in PassFleet_test">
     <configuration name="PassFleet" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="main.Main" />
       <module name="PassFleet_main" />
@@ -721,6 +646,95 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All in PassFleet_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PassFleet_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LimitedPasswordFieldTest.checkIf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PassFleet_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utilities" />
+      <option name="MAIN_CLASS_NAME" value="utilities.LimitedPasswordFieldTest" />
+      <option name="METHOD_NAME" value="checkIf" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LimitedPasswordFieldTest.checkIf2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PassFleet_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utilities" />
+      <option name="MAIN_CLASS_NAME" value="utilities.LimitedPasswordFieldTest" />
+      <option name="METHOD_NAME" value="checkIf2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LimitedPasswordFieldTest.checkIfTooLongInsertIsTrimmed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PassFleet_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utilities" />
+      <option name="MAIN_CLASS_NAME" value="utilities.LimitedPasswordFieldTest" />
+      <option name="METHOD_NAME" value="checkIfTooLongInsertIsTrimmed" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LimitedPasswordFieldTest.checkIfTooShortInsertIsNotTrimmed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PassFleet_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utilities" />
+      <option name="MAIN_CLASS_NAME" value="utilities.LimitedPasswordFieldTest" />
+      <option name="METHOD_NAME" value="checkIfTooShortInsertIsNotTrimmed" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.PassFleet" />
+      <item itemvalue="JUnit.LimitedPasswordFieldTest.checkIf" />
+      <item itemvalue="JUnit.LimitedPasswordFieldTest.checkIf2" />
+      <item itemvalue="JUnit.LimitedPasswordFieldTest.checkIfTooLongInsertIsTrimmed" />
+      <item itemvalue="JUnit.LimitedPasswordFieldTest.checkIfTooShortInsertIsNotTrimmed" />
+      <item itemvalue="JUnit.All in PassFleet_test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in PassFleet_test" />
+        <item itemvalue="JUnit.LimitedPasswordFieldTest.checkIfTooShortInsertIsNotTrimmed" />
+        <item itemvalue="JUnit.LimitedPasswordFieldTest.checkIfTooLongInsertIsTrimmed" />
+        <item itemvalue="JUnit.LimitedPasswordFieldTest.checkIf2" />
+        <item itemvalue="JUnit.LimitedPasswordFieldTest.checkIf" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -735,6 +749,38 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="PasswordGeneratorTest - 2018.12.16 at 20h 07m 24s.xml">
+      <configuration name="PasswordGeneratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LimitedPasswordFieldTest_checkIf - 2018.12.16 at 20h 13m 46s.xml">
+      <configuration name="LimitedPasswordFieldTest.checkIf" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LimitedPasswordFieldTest_checkIf - 2018.12.16 at 20h 15m 18s.xml">
+      <configuration name="LimitedPasswordFieldTest.checkIf" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LimitedPasswordFieldTest_checkIf - 2018.12.16 at 20h 34m 58s.xml">
+      <configuration name="LimitedPasswordFieldTest.checkIf" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LimitedPasswordFieldTest_checkIf2 - 2018.12.16 at 20h 40m 05s.xml">
+      <configuration name="LimitedPasswordFieldTest.checkIf2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LimitedPasswordFieldTest_checkIf2 - 2018.12.16 at 20h 40m 20s.xml">
+      <configuration name="LimitedPasswordFieldTest.checkIf2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LimitedPasswordFieldTest_checkIfTooLongInsertIsTrimmed - 2018.12.16 at 20h 43m 55s.xml">
+      <configuration name="LimitedPasswordFieldTest.checkIfTooLongInsertIsTrimmed" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LimitedPasswordFieldTest_checkIfTooShortInsertIsNotTrimmed - 2018.12.16 at 20h 43m 58s.xml">
+      <configuration name="LimitedPasswordFieldTest.checkIfTooShortInsertIsNotTrimmed" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_PassFleet_test - 2018.12.16 at 20h 44m 18s.xml">
+      <configuration name="All in PassFleet_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_PassFleet_test - 2018.12.16 at 20h 49m 58s.xml">
+      <configuration name="All in PassFleet_test" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -747,7 +793,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1401919" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14658849" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -817,31 +863,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Example.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/database/geg.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/utilities/LimitedPasswordField.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/FAWF.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/database/Data.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3325">
-          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/settings/SettingsPanelController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/loginScreen/LoginScreenController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -864,12 +886,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/MainPanel.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="226" selection-start-line="8" selection-start-column="226" selection-end-line="8" selection-end-column="226" />
         </state>
       </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/javafx-src.zip!/javafx/fxml/FXMLLoader.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -886,28 +908,25 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/LoginScreen.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="216" selection-start-line="9" selection-start-column="216" selection-end-line="9" selection-end-column="216" />
         </state>
       </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/SettingsPanel.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="38" selection-start-column="38" selection-end-column="38" />
         </state>
       </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/javafx-src.zip!/javafx/stage/Stage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="710" selection-start-line="710" selection-end-line="710" />
-          <folding>
-            <element signature="e#25358#25359#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -918,16 +937,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mainPanel/MainPanelModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/IO/gradle.kts" />
     <entry file="file://$PROJECT_DIR$/src/main/java/mainPanel/MainPanelController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -939,10 +949,101 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="28" column="84" selection-start-line="28" selection-start-column="84" selection-end-line="28" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/EncryptorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="37" column="105" selection-start-line="37" selection-start-column="105" selection-end-line="37" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/settings/SettingsPanelController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/PasswordGeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="88" selection-start-line="51" selection-start-column="88" selection-end-line="51" selection-end-column="88" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utilities/PasswordGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/database/DataManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/database/DataSchema.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/LimitedPasswordFieldTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testingResources/JfxTestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#651#685#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/utilities/Encryptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="69" column="41" selection-start-line="69" selection-start-column="41" selection-end-line="69" selection-end-column="41" />
+        <state relative-caret-position="40">
+          <caret line="86" column="45" selection-start-line="86" selection-start-column="45" selection-end-line="86" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -951,45 +1052,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/settings/SettingsPanelModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="95" column="40" selection-start-line="95" selection-start-column="40" selection-end-line="95" selection-end-column="40" />
+        <state relative-caret-position="-799">
+          <caret line="22" column="70" lean-forward="true" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IO/gradle.kts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/main/java/mainPanel/MainPanelModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/database/DataSchema.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/database/DataManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/database/Database.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+        <state relative-caret-position="782">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -998,7 +1072,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/loginScreen/LoginScreenModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
+        <state relative-caret-position="343">
           <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1006,17 +1080,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/utilities/PasswordGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/database/Data.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+        <state relative-caret-position="-442">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/main/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/utilities/LimitedPasswordField.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="80" column="23" lean-forward="true" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="23" />
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/database/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
