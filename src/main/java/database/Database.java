@@ -46,6 +46,7 @@ public class Database {
             sqlStatement.append("ID  INTEGER     PRIMARY KEY AUTOINCREMENT   NOT NULL    CHECK(ID = 1) ,");
             sqlStatement.append("password_sample     TEXT    DEFAULT decodeSample ,");
             sqlStatement.append("password_postfix    VARCHAR ,");
+            sqlStatement.append("password_hint      VARCHAR, ");
             sqlStatement.append("ask_for_password_status BOOLEAN NOT NULL DEFAULT (false) ,");
             sqlStatement.append("generator_number_of_char   INTEGER     NOT NULL    DEFAULT 8 ,");
             sqlStatement.append("generator_include_upper_case   BOOLEAN     NOT NULL    DEFAULT (true) ,");
